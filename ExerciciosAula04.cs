@@ -43,13 +43,13 @@ namespace Aula04
                 somaNotas += notas[i];
             }
 
-            double mediaAlunos = (somaNotas / _quantidadeNotas);
+            double mediaAluno = (somaNotas / _quantidadeNotas);
 
             Console.WriteLine("----------------------");
             Console.WriteLine("Olá, {0}", nomeAluno);
-            Console.WriteLine("Você obteve a média de {0} pontos", mediaAlunos);
+            Console.WriteLine("Você obteve a média de {0} pontos", mediaAluno);
 
-            if (mediaAlunos < 6)
+            if (mediaAluno < 6)
             {
                 Console.WriteLine("Infelizmente você foi reprovado. :(");
             }
