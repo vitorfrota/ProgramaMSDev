@@ -1,0 +1,16 @@
+E:\Workspace\Development\ProgramaMSDev\Aula09\Aula09\bin\Debug\net5.0\Aula09.exe
+E:\Workspace\Development\ProgramaMSDev\Aula09\Aula09\bin\Debug\net5.0\Aula09.deps.json
+E:\Workspace\Development\ProgramaMSDev\Aula09\Aula09\bin\Debug\net5.0\Aula09.runtimeconfig.json
+E:\Workspace\Development\ProgramaMSDev\Aula09\Aula09\bin\Debug\net5.0\Aula09.runtimeconfig.dev.json
+E:\Workspace\Development\ProgramaMSDev\Aula09\Aula09\bin\Debug\net5.0\Aula09.dll
+E:\Workspace\Development\ProgramaMSDev\Aula09\Aula09\bin\Debug\net5.0\ref\Aula09.dll
+E:\Workspace\Development\ProgramaMSDev\Aula09\Aula09\bin\Debug\net5.0\Aula09.pdb
+E:\Workspace\Development\ProgramaMSDev\Aula09\Aula09\obj\Debug\net5.0\Aula09.csproj.AssemblyReference.cache
+E:\Workspace\Development\ProgramaMSDev\Aula09\Aula09\obj\Debug\net5.0\Aula09.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace\Development\ProgramaMSDev\Aula09\Aula09\obj\Debug\net5.0\Aula09.AssemblyInfoInputs.cache
+E:\Workspace\Development\ProgramaMSDev\Aula09\Aula09\obj\Debug\net5.0\Aula09.AssemblyInfo.cs
+E:\Workspace\Development\ProgramaMSDev\Aula09\Aula09\obj\Debug\net5.0\Aula09.csproj.CoreCompileInputs.cache
+E:\Workspace\Development\ProgramaMSDev\Aula09\Aula09\obj\Debug\net5.0\Aula09.dll
+E:\Workspace\Development\ProgramaMSDev\Aula09\Aula09\obj\Debug\net5.0\ref\Aula09.dll
+E:\Workspace\Development\ProgramaMSDev\Aula09\Aula09\obj\Debug\net5.0\Aula09.pdb
+E:\Workspace\Development\ProgramaMSDev\Aula09\Aula09\obj\Debug\net5.0\Aula09.genruntimeconfig.cache
